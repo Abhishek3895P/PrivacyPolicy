@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-**Last Updated: [Insert Date]**
+**Last Updated: 23/01/2025**
 
 Kuldeep Kaware ("we," "our," or "us") is committed to protecting the privacy of our users. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you use our coding learning app and other applications (collectively, "Services"). By using our Services, you agree to the terms of this Privacy Policy.
 
